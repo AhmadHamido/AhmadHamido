@@ -19,12 +19,14 @@
 
 ---
 
-### 👨‍💻 About Me :
+### 🧑🏽‍💻 About Me :
 
-I'm a passionate frontend web developer from France.
+I'm a passionate frontend web developer from France. 
 
-
-
+- 🔭 I'm focusing on improving my CSS Grid and Flexbox skills.
+- 🌱 Studying javascript on <a href="https://scrimba.com/">Scrimba</a> and <a href="https://www.udemy.com">Udemy</a>.
+- 💼 Using <a href="https://www.frontendmentor.io/profile/AhmadHamido">Frontend Mentor</a> projects to hone my problem solving skills.
+- In my free time I'm a professional MMA fighter 🥊 and a God of War fanatic 🎮.
 
 ---
 
