@@ -1,16 +1,45 @@
-### Hi there 👋
+<div id="header" align="center">
+  <div>
+    <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="150"/>
+  </div>
+   <br />
+  <div align='center' id="badges">
+  <a href="https://twitter.com/thereapermma91"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:ahmad.hamido.91@gmail.com?subject=Hello%20Ahmad"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+</div>
+   <br />
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=AhmadHamido&style=flat-square&color=blue" alt="counter viewer"/></a>
+  <h1>Hi there 👋, I'm Ahmad 🧑🏽‍💻</h1>
+</div>
 
-<!--
-**AhmadHamido/AhmadHamido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me :
+
+I'm a passionate frontend web developer from France.
+
+
+
+
+---
+
+### 🛠️ Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"          height="40"/>&nbsp;
+</div>  
+
+---
+
+### 🔥 My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmadHamido&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHamido&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
